@@ -98,6 +98,7 @@ def changing_alan
         },
         :alan_kay => {
           :known_for => "Object Orientation",
+          
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
